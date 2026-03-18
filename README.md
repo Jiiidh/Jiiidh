@@ -30,7 +30,6 @@ MySQL data pipeline analyzing 200+ student records to surface academic performan
 ML model predicting household energy usage from environmental and appliance data.  
 `Python` `scikit-learn`
 
-📊 GitHub Stats
 ![Ramani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiiidh&show_icons=true&theme=dark)
 
 💼 Open to internship and entry-level opportunities in Software Engineering & AI , Data Engineer , Data scientist.
