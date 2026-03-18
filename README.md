@@ -14,23 +14,23 @@ ML/Data: scikit-learn · Data Analysis
 Tools: Git · GitHub · Postman · VS Code  
 
 🚀 Projects
-🤟 AI-Based Sign Language Interpreter
+**🤟 AI-Based Sign Language Interpreter**
 Real-time Indian Sign Language to text converter using CNN and time-based gesture recognition (~76% accuracy).  
 `Python` `CNN` `OpenCV`
 
-📚 Personalized Learning Path Recommender
+**📚 Personalized Learning Path Recommender**
 Full-stack web app delivering ML-powered course recommendations.
 `React.js` `Node.js` `MongoDB` `scikit-learn`
 
-🎓 Smart Student Shadow System
+**🎓 Smart Student Shadow System**
 MySQL data pipeline analyzing 200+ student records to surface academic performance trends.  
 `MySQL` `SQL`
 
-⚡ Energy Consumption Predictor
+**⚡Energy Consumption Predictor**
 ML model predicting household energy usage from environmental and appliance data.  
 `Python` `scikit-learn`
 
 📊 GitHub Stats
-[Ramani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiiidh&show_icons=true&theme=dark)
+![Ramani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiiidh&show_icons=true&theme=dark)
 
 💼 Open to internship and entry-level opportunities in Software Engineering & AI , Data Engineer , Data scientist.
