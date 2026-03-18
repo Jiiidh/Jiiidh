@@ -3,7 +3,9 @@
 🎓 M.E. Computer Science — Sathyabama University (CGPA: 9.06)  
 📍 Chennai, India  
 📫 ramani.sk9790@gmail.com | [LinkedIn](https://www.linkedin.com/in/ramani-s-b83396211/)
+
 🛠️ Tech Stack
+
 Languages: Python · SQL · JavaScript  
 Frontend: React.js · HTML · CSS  
 Backend: Node.js · REST APIs  
@@ -30,4 +32,5 @@ ML model predicting household energy usage from environmental and appliance data
 
 📊 GitHub Stats
 [Ramani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiiidh&show_icons=true&theme=dark)
+
 💼 Open to internship and entry-level opportunities in Software Engineering & AI , Data Engineer , Data scientist.
