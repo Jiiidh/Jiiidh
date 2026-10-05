@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ramani S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;REST+API+Developer;AI%2FML+Enthusiast;Data+Engineering+Enthusiast;Software+Engineer+%7C+SDE-I" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;REST+API+Developer;AI%2FML+Enthusiast;Software+Engineer+%7C+SDE-I" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramani-s-b83396211/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ramani.sk9790@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Jiiidh">
-    <img src="https://img.shields.io/badge/GitHub-Jiiidh-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -20,16 +17,14 @@
 
 ## 👨‍💻 About Me
 
-🎓 **M.E. Computer Science** — Sathyabama University  
-📊 **CGPA:** 9.06  
-📍 **Chennai, India**
+🎓 M.E. Computer Science — Sathyabama University (CGPA: 9.06)  
+📍 Chennai, India  
 
-I'm a **backend-focused software developer** interested in building
+I'm a backend-focused software developer interested in building
 scalable APIs, data-driven applications, and AI-powered solutions.
 
-I enjoy working with **Python, FastAPI, REST APIs, SQL, PostgreSQL,
-and Machine Learning**, with a strong interest in backend engineering
-and software development.
+I enjoy working with Python, FastAPI, REST APIs, SQL, PostgreSQL,
+and machine learning technologies.
 
 💼 **Open to Software Engineering, Backend Developer & SDE-I opportunities.**
 
@@ -37,86 +32,65 @@ and software development.
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,js,nodejs,react,html,css,postgres,mysql,mongodb,git,github,postman,vscode" />
-
-</p>
-
 ### 💻 Languages
-
 `Python` `SQL` `JavaScript`
 
 ### ⚙️ Backend
-
 `FastAPI` `REST APIs` `Node.js`
 
 ### 🗄️ Databases
-
 `PostgreSQL` `MySQL` `MongoDB`
 
 ### 🤖 AI / Machine Learning
+`scikit-learn` `Pandas` `NumPy` `OpenCV` `CNN`
 
-`Scikit-learn` `Pandas` `NumPy` `OpenCV` `CNN`
+### 🌐 Frontend
+`React.js` `HTML` `CSS`
 
 ### 🔧 Tools
-
 `Git` `GitHub` `Postman` `VS Code`
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🛒 Olist Data Pipeline
+### 🤟 AI-Based Sign Language Interpreter
 
-Built a scalable data pipeline for ingesting, transforming, validating,
-and monitoring e-commerce data.
+AI-powered Indian Sign Language to text conversion system using
+CNN and time-based gesture recognition.
 
-Implemented backend services, REST APIs, database operations, data
-validation, and workflow orchestration.
+- Real-time gesture recognition
+- Computer vision based processing
+- Achieved approximately 76% recognition accuracy
 
-**Tech Stack**
-
-`Python` `FastAPI` `PostgreSQL` `Prefect` `REST APIs` `SQL`
-
-### 🎥 Project Workflow
-
-```text
-Data Source
-     ↓
-Data Ingestion
-     ↓
-Data Validation
-     ↓
-Transformation
-     ↓
-PostgreSQL
-     ↓
-Monitoring
+`Python` `CNN` `OpenCV` `Machine Learning`
 
 ---
 
 ### 📚 Personalized Learning Path Recommender
 
-Developed an ML-powered recommendation system that generates adaptive learning paths based on user requirements. Built backend services and REST APIs using Python and FastAPI to support scalable recommendation workflows.
+Full-stack web application that provides ML-powered personalized
+course recommendations based on user interests and learning needs.
 
-`Python` `FastAPI` `Machine Learning` `REST APIs`
-
----
-
-### 📈 Time Series Forecasting System
-
-Built a backend forecasting system for predicting future sales using ARIMA, Prophet, and XGBoost. Developed REST APIs and backend services to support forecasting workflows and model-based predictions.
-
-`Python` `FastAPI` `ARIMA` `Prophet` `XGBoost`
+`React.js` `Node.js` `MongoDB` `scikit-learn`
 
 ---
 
-### 🤟 AI-Based Sign Language Interpreter
+### 🎓 Smart Student Shadow System
 
-Developed a real-time AI-based system for recognizing sign language gestures and converting them into text. Used computer vision and deep learning techniques for gesture detection and recognition.
+MySQL-based data pipeline analyzing 200+ student records to identify
+academic performance trends and generate meaningful insights.
 
-`Python` `TensorFlow` `OpenCV` `MediaPipe` `Scikit-learn`
+`Python` `MySQL` `SQL` `Data Analysis`
+
+---
+
+### ⚡ Energy Consumption Predictor
+
+Machine learning model that predicts household energy consumption
+using environmental and appliance-related data.
+
+`Python` `scikit-learn` `Pandas` `Machine Learning`
 
 ---
 
@@ -131,26 +105,18 @@ Developed a real-time AI-based system for recognizing sign language gestures and
 
 ## 💼 Open to Opportunities
 
-I'm currently looking for opportunities as a:
+I'm currently looking for:
 
 - Backend Developer
 - Software Developer
 - Software Engineer
 - SDE-I
 
-**Primary interests:**  
-Python Backend Development · FastAPI · REST APIs · SQL · PostgreSQL · AI/ML
+**Primary interests:** Python Backend Development · FastAPI · REST APIs · SQL · PostgreSQL · AI/ML
 
 ---
 
 ## 🤝 Let's Connect
 
 📫 **Email:** ramani.sk9790@gmail.com  
-
 🔗 **LinkedIn:** [Ramani S](https://www.linkedin.com/in/ramani-s-b83396211/)
-
----
-
-<p align="center">
-  <i>Building practical software solutions with code, data, and AI.</i>
-</p>
