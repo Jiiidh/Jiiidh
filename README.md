@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ramani S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;REST+API+Developer;AI%2FML+Enthusiast;Software+Engineer+%7C+SDE-I" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;REST+API+Developer;AI%2FML+Enthusiast;Data+Engineering+Enthusiast;Software+Engineer+%7C+SDE-I" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramani-s-b83396211/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ramani.sk9790@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jiiidh">
+    <img src="https://img.shields.io/badge/GitHub-Jiiidh-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -17,14 +20,16 @@
 
 ## 👨‍💻 About Me
 
-🎓 M.E. Computer Science — Sathyabama University (CGPA: 9.06)  
-📍 Chennai, India  
+🎓 **M.E. Computer Science** — Sathyabama University  
+📊 **CGPA:** 9.06  
+📍 **Chennai, India**
 
-I'm a backend-focused software developer interested in building
+I'm a **backend-focused software developer** interested in building
 scalable APIs, data-driven applications, and AI-powered solutions.
 
-I enjoy working with Python, FastAPI, REST APIs, SQL, PostgreSQL,
-and machine learning technologies.
+I enjoy working with **Python, FastAPI, REST APIs, SQL, PostgreSQL,
+and Machine Learning**, with a strong interest in backend engineering
+and software development.
 
 💼 **Open to Software Engineering, Backend Developer & SDE-I opportunities.**
 
@@ -32,41 +37,62 @@ and machine learning technologies.
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,nodejs,react,html,css,postgres,mysql,mongodb,git,github,postman,vscode" />
+
+</p>
+
 ### 💻 Languages
+
 `Python` `SQL` `JavaScript`
 
 ### ⚙️ Backend
-`FastAPI` `Python` `REST APIs` `Node.js`
+
+`FastAPI` `REST APIs` `Node.js`
 
 ### 🗄️ Databases
+
 `PostgreSQL` `MySQL` `MongoDB`
 
 ### 🤖 AI / Machine Learning
-`scikit-learn` `Pandas` `NumPy` `OpenCV` `CNN`
 
-### 🌐 Frontend
-`React.js` `HTML` `CSS`
+`Scikit-learn` `Pandas` `NumPy` `OpenCV` `CNN`
 
 ### 🔧 Tools
+
 `Git` `GitHub` `Postman` `VS Code`
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 Olist Data Pipeline
+## 🛒 Olist Data Pipeline
 
-Built a scalable data pipeline for ingesting, transforming, validating, and monitoring e-commerce data using Python, FastAPI, PostgreSQL, and Prefect. Implemented REST APIs, SQL optimization, data validation, and automated workflow monitoring.
+Built a scalable data pipeline for ingesting, transforming, validating,
+and monitoring e-commerce data.
+
+Implemented backend services, REST APIs, database operations, data
+validation, and workflow orchestration.
+
+**Tech Stack**
 
 `Python` `FastAPI` `PostgreSQL` `Prefect` `REST APIs` `SQL`
 
----
+### 🎥 Project Workflow
 
-### 📊 Dataflow Monitor
-
-Developed a backend monitoring platform for data validation and workflow tracking using Python, FastAPI, Prefect, and Supabase. Implemented REST APIs, logging, automated validation, and monitoring workflows to improve data reliability.
-
-`Python` `FastAPI` `Prefect` `Supabase` `REST APIs`
+```text
+Data Source
+     ↓
+Data Ingestion
+     ↓
+Data Validation
+     ↓
+Transformation
+     ↓
+PostgreSQL
+     ↓
+Monitoring
 
 ---
 
