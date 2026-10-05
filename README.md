@@ -54,43 +54,43 @@ and machine learning technologies.
 
 ## 🚀 Featured Projects
 
-### 🤟 AI-Based Sign Language Interpreter
+### 🛒 Olist Data Pipeline
 
-AI-powered Indian Sign Language to text conversion system using
-CNN and time-based gesture recognition.
+Built a scalable data pipeline for ingesting, transforming, validating, and monitoring e-commerce data using Python, FastAPI, PostgreSQL, and Prefect. Implemented REST APIs, SQL optimization, data validation, and automated workflow monitoring.
 
-- Real-time gesture recognition
-- Computer vision-based processing
-- Achieved approximately 76% recognition accuracy
+`Python` `FastAPI` `PostgreSQL` `Prefect` `REST APIs` `SQL`
 
-`Python` `CNN` `OpenCV` `Machine Learning`
+---
+
+### 📊 Dataflow Monitor
+
+Developed a backend monitoring platform for data validation and workflow tracking using Python, FastAPI, Prefect, and Supabase. Implemented REST APIs, logging, automated validation, and monitoring workflows to improve data reliability.
+
+`Python` `FastAPI` `Prefect` `Supabase` `REST APIs`
 
 ---
 
 ### 📚 Personalized Learning Path Recommender
 
-Full-stack web application that provides ML-powered personalized
-course recommendations based on user interests and learning needs.
+Developed an ML-powered recommendation system that generates adaptive learning paths based on user requirements. Built backend services and REST APIs using Python and FastAPI to support scalable recommendation workflows.
 
-`React.js` `Node.js` `MongoDB` `scikit-learn`
-
----
-
-### 🎓 Smart Student Shadow System
-
-MySQL-based data pipeline analyzing 200+ student records to identify
-academic performance trends and generate meaningful insights.
-
-`Python` `MySQL` `SQL` `Data Analysis`
+`Python` `FastAPI` `Machine Learning` `REST APIs`
 
 ---
 
-### ⚡ Energy Consumption Predictor
+### 📈 Time Series Forecasting System
 
-Machine learning model that predicts household energy consumption
-using environmental and appliance-related data.
+Built a backend forecasting system for predicting future sales using ARIMA, Prophet, and XGBoost. Developed REST APIs and backend services to support forecasting workflows and model-based predictions.
 
-`Python` `scikit-learn` `Pandas` `Machine Learning`
+`Python` `FastAPI` `ARIMA` `Prophet` `XGBoost`
+
+---
+
+### 🤟 AI-Based Sign Language Interpreter
+
+Developed a real-time AI-based system for recognizing sign language gestures and converting them into text. Used computer vision and deep learning techniques for gesture detection and recognition.
+
+`Python` `TensorFlow` `OpenCV` `MediaPipe` `Scikit-learn`
 
 ---
 
